@@ -3,33 +3,38 @@ MusicBoxSocketClients #4/4
 
 Socket.io minimal/basic/standalone Clients (SandBox/demo kit)
 
-Several scripts to test server and prepare future implementations (#1/4, #2/4)
+Several scripts to test server and prepare future implementations (#1/4 & #2/4)
 
 
-* INSTALL
+## INSTALL
 
+<pre><code>
 git clone https://github.com/tomplays/MusicBoxSocketClients.git
+
 cd MusicBoxSocketClients
+
 npm install
+</code></pre>
 
 
-* OPTIONS
+## OPTIONS
 
  see config.json
-  - PORT / default : 3013
+  - PORT / default : 3013 (remote the server port)
 
 
-* RUN/START 
- 	run
- 	npm run-script start
+## RUN/START 
  
+ 	</code></pre>
+ 	npm run-script start
+ 	</code></pre>
  	
 
-* AUTHOR
+## AUTHOR
 
 Tom Wersinger <homeof@gmail.com>
 
-* COPYRIGHT
+## COPYRIGHT
 
 Copyright (C) 2014 Tom Wersinger <homeof@gmail.com>
 
