@@ -20,17 +20,17 @@ npm install
 ## OPTIONS
 
  see config.json
-  - PORT / default : 3013 (remote the server port)
+  - PORT / default : 3013 (the remote server port)
 
 
 ## RUN/START 
  
- 	</code></pre>
+ 	<code><pre>
  	npm run-script start
  	</code></pre>
  	
 
-## AUTHOR
+### AUTHOR
 
 Tom Wersinger <homeof@gmail.com>
 
@@ -38,7 +38,7 @@ Tom Wersinger <homeof@gmail.com>
 
 Copyright (C) 2014 Tom Wersinger <homeof@gmail.com>
 
-* LICENSE
+#### LICENSE
 
 This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 

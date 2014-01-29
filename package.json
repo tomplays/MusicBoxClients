@@ -1,5 +1,5 @@
 {
-    "name": "MusicBoxsocketClientsSuite"
+    "name": "MusicBoxsocketClients"
   , "version": "0.0.1"
   , "private": true
   , "scripts": {
@@ -7,7 +7,7 @@
      }
   ,"repository" : { 
       "type" : "git",
-      "url" : "http://github.com/tomplays/"
+      "url" : "http://github.com/tomplays/MusicBoxsocketClients"
      }
   , "engines": {
         "node": "0.10.24",
@@ -20,9 +20,7 @@
         "nconf": "~0.6.7",
         "underscore": "*",
         "request": "*",
-        "socket.io": "~0.9.16",
-        "socket.io-client": "*",
-        "ntwitter": "*",       
+        "ntwitter": "*"    
      }
 }
 
