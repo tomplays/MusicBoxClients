@@ -25,9 +25,9 @@ npm install
 
 ## RUN/START 
  
- 	<code><pre>
- 	npm run-script start
- 	</code></pre>
+<code><pre>
+npm run-script start
+</code></pre>
  	
 
 ### AUTHOR
