@@ -1,34 +1,43 @@
-MusicBoxSocketClients #4/4
+MusicBoxClients #4/4
 ==========================
 
-Socket.io minimal/basic/standalone Clients (SandBox/demo kit)
+Socket.io and request.js minimal/basic/standalone Clients (SandBox/demo kit)
 
 Several scripts to test server and prepare future implementations (#1/4 & #2/4)
 
 
 ## INSTALL
 
-<pre><code>
-git clone https://github.com/tomplays/MusicBoxSocketClients.git
 
-cd MusicBoxSocketClients
+`git clone https://github.com/tomplays/MusicBoxClients.git`
 
-npm install
-</code></pre>
+`cd MusicBoxClients`
+
+`npm install` 
 
 
 ## OPTIONS
 
  see config.json
   - PORT / default : 3013 (the remote server port)
+  - API endpoint (to api core)
+
+## A. Using Sockets clients
+
+### RUN/START
+
+`npm run-script start`
 
 
-## RUN/START 
- 
-<code><pre>
-npm run-script start
-</code></pre>
- 	
+## B. Using Request.js scripts
+
+To create a new post, or what you want.. (using file request_poster.js)
+
+### RUN/START
+
+`node request.js`
+
+
 
 ### AUTHOR
 
