@@ -38,6 +38,8 @@ To create a new post, or what you want.. (using file request_poster.js)
 `node request.js`
 
 
+[![Build Status](https://travis-ci.org/tomplays/MusicBoxClients.png?branch=master)](https://travis-ci.org/tomplays/MusicBoxClients)
+
 
 ### AUTHOR
 
