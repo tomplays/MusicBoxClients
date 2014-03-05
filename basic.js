@@ -40,7 +40,7 @@ function get_random(len){
 
 function say(){
 	send_sockets++; // increment 'global'
-	socket.emit('news', { action: 'socket_to_docTd', fk: 'temp_'+get_random(2), fv: get_random(5),  doc_id: get_random(1) , socketer_id :1, socketer_name:'Pi#0'});
+	socket.emit('news', { action: 'socket_to_docTd', fk: 'temp_'+get_random(2), fv: get_random(5),  doc_id: 13 , socketer_id :1, socketer_name:'Pi#0'});
 	console.log('~:~:~~:'+ send_sockets +' sockets sent and counting..')
 	setTimeout(say,3000); // every 3 seconds
 
